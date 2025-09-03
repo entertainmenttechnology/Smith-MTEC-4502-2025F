@@ -103,8 +103,4 @@ This guide organizes career pathways in Emerging Media by **skill-based categori
 
 ---
 
-### Next Steps
-- Expanded categories now include **AI & Generative Media** and **Sustainability**.  
-- Review for alignment with program concentrations and update annually to capture emerging trends.  
-- In class: students should conduct **job posting research** using the keywords provided, with guided exercises to analyze industry expectations.
 

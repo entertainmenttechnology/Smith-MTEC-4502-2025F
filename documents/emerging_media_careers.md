@@ -1,6 +1,6 @@
 # Emerging Media Technology Careers – Draft Guide
 
-This guide organizes career pathways in Emerging Media by **skill-based categories**, with explicit subsections for **AI & Generative Media** and **Sustainability**. Each entry provides a description, most important skills, and job search keywords to help students connect academic learning with real-world opportunities.
+As students in MTEC-4502, you will use this career guide as a foundation for your **analytical essay requirement**. The document organizes emerging media career pathways into **skill-based categories**, with dedicated sections for **AI & Generative Media** and **Sustainability** careers. Each career table includes four key columns: **Job Title**, **Description**, **Most Important Skills**, and **Job Search Keywords**. Your task is to analyze these career options, research specific job postings using the provided keywords, and connect your academic learning to real-world career opportunities in your analytical essay.
 
 ---
 

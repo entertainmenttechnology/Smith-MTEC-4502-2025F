@@ -14,5 +14,5 @@ This site lists a variety of different job boards, mailing lists, organizations 
 This link takes you to the second part of the assignment, which is due next week.  We are going to focus on parts 1-2 in this document, and will be further evaluating our research before moving forward.
 
 [SPECULATIVE JOBS](https://github.com/entertainmenttechnology/Smith-MTEC-4502-2025F/blob/main/documents/02_emerging_media_careers.md)  
-Here is a list of possible types of jobs, some predictive, some alreadyt existing etc.  Feel free to explore this to see if there may be other types of employment possibilities that meet your capabilities and interests: one never knows!  
+Here is a list of possible types of jobs, some predictive, some already existing etc.  Feel free to explore this to see if there may be other types of employment possibilities that meet your capabilities and interests: one never knows!  
 

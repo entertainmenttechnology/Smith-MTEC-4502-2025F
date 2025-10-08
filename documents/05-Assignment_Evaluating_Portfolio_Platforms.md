@@ -23,7 +23,7 @@ By completing this assignment, you will:
 
 ## 🧰 Resource
 Use the following shared document as your primary reference:  
-👉 **[MTEC 4502 – Common Portfolio Platforms (Download)](https://chat.openai.com/share/file-EDWXGH8z7xgraGgejUz45z)**  
+👉 **[MTEC 4502 – Common Portfolio Platforms (Download)]([https://chat.openai.com/share/file-EDWXGH8z7xgraGgejUz45z](https://docs.google.com/document/d/1yAUXT7PS-UqmYrYAnWGZzVd5BFZk9ffURuGBU7ewljg/edit?usp=sharing))**  
 
 This resource includes an overview of major platforms such as:
 - **Design & Creative Platforms:** Behance, Cargo, Adobe Portfolio, Dribbble, ArtStation  

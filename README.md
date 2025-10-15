@@ -1,5 +1,6 @@
 # Smith-MTEC-4502-2025F
 Class for Career and Portfolio Presentation
+Our Portfolio Report Document can be found [here](https://docs.google.com/document/d/1q-BKMrjULE7J879OIudcX4iEbXvspckjvZ-CoNli_xE/edit?usp=sharing)
 
 [Common Portfoliuo Platforms](https://docs.google.com/document/d/1yAUXT7PS-UqmYrYAnWGZzVd5BFZk9ffURuGBU7ewljg/edit?usp=sharing)  
 

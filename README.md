@@ -1,7 +1,11 @@
 # Smith-MTEC-4502-2025F
 Class for Career and Portfolio Presentation  
 
-Week of October 15 2025 - Portfolio Assignment can be found [here](https://docs.google.com/document/d/14PbnafEIEXLOxAKFrabJKT1MuOXnPtGeFJ45sXziKeU/edit?usp=sharing)  
+## October 22 - Class material  
+Here is a [link to the Google Doc](https://docs.google.com/document/d/1w_dfpOy5jjLpmTulerBi4yQBkElQ8zqKmVLt8NyEXJI/edit?usp=sharing) that you will be placing your Portfolio analysis information in as a set of links.  
+
+---  
+## Week of October 15 2025 - Portfolio Assignment can be found [here](https://docs.google.com/document/d/14PbnafEIEXLOxAKFrabJKT1MuOXnPtGeFJ45sXziKeU/edit?usp=sharing)  
 We will be working on Part 1 (so Assignemtn 3.1)  
 
 For Octiber 15 class: Our Portfolio Report Document can be found [here](https://docs.google.com/document/d/1q-BKMrjULE7J879OIudcX4iEbXvspckjvZ-CoNli_xE/edit?usp=sharing)

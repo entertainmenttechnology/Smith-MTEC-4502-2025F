@@ -49,7 +49,7 @@ We also wish to consider the difference between a resume and a CV (curriculum vi
 * **Resume Analysis:** Brief summaries explaining what makes one resume effective and another ineffective.  
 * **Reflection:** (Optional) Brief summary of what you found challenging or what you’d like to improve in the next class.
 
-**Next Week (March 3):**
+**Next Week:**
 
 * We will workshop these drafts together, providing feedback and working toward a stronger resume.
 

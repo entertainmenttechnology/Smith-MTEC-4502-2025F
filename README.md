@@ -7,6 +7,8 @@ Materials for the resume assignments:
 [Resume Development Guide](https://github.com/entertainmenttechnology/Smith-MTEC-4502-2025F/blob/main/documents/11_resume_development_guide.md)  
 [Resume Development Assignment](https://github.com/entertainmenttechnology/Smith-MTEC-4502-2025F/blob/main/documents/11_Session%20Resume%20Development%20Assignment.md)  
 
+[Strong Resume Development Resource from Harvard](https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/)  
+
 Link for [responsive portfolio Websites in GitHub](https://github.com/topics/responsive-portfolio-website)  
 
 ## October 22 - Class material  

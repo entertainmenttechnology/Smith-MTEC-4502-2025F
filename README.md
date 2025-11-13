@@ -1,6 +1,14 @@
 # Smith-MTEC-4502-2025F
 Class for Career and Portfolio Presentation  
 
+## November 12 - Class Materials
+Materials for the resume assignments:  
+[Resume Power Point](https://github.com/entertainmenttechnology/Smith-MTEC-4502-2025F/blob/main/documents/10_Resume_Development_Slides.pdf)  
+[Resume Development Guide](https://github.com/entertainmenttechnology/Smith-MTEC-4502-2025F/blob/main/documents/11_resume_development_guide.md)  
+[Resume Development Assignment](https://github.com/entertainmenttechnology/Smith-MTEC-4502-2025F/blob/main/documents/11_Session%20Resume%20Development%20Assignment.md)  
+
+Link for [responsive portfolio Websites in GitHub](https://github.com/topics/responsive-portfolio-website)  
+
 ## October 22 - Class material  
 Here is a [link to the Google Doc](https://docs.google.com/document/d/1w_dfpOy5jjLpmTulerBi4yQBkElQ8zqKmVLt8NyEXJI/edit?usp=sharing) that you will be placing your Portfolio analysis information in as a set of links.  
 
